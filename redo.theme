@@ -15,7 +15,7 @@
   --main-color: #610580;
   --hover-color: #1e63b3;
   --success-color: #43b581;
-  --danger-color: #610580;
+  --danger-color: #982929;
   --url-color: var(--main-color);
   --background-image: url('https://cdn.discordapp.com/attachments/1118103123534286960/1147574544874356746/giphy.gif');
   --background-shading: 100%;
