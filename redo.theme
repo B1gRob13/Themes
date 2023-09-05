@@ -17,7 +17,7 @@
   --success-color: #43b581;
   --danger-color: #982929;
   --url-color: var(--main-color);
-  --background-image: url('https://cdn.discordapp.com/attachments/1118103123534286960/1147574544874356746/giphy.gif');
+  --background-image: url('https://cdn.discordapp.com/attachments/1118103123534286960/1148727581730930799/8947408.jpg');
   --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
